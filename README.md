@@ -1,10 +1,5 @@
 # Filter-Thesaurus-Cloud
 
-A word-filter thesaurus for minecraft server (via TrChat).
-[EN](README_EN.md)
-<br>
-<br>
-
 **请勿滥用本词库！请遵守相关法律法规！**
 <br>
 <br>
