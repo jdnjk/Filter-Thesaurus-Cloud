@@ -37,7 +37,7 @@ Cloud-Thesaurus:
   Ignored: [] 
   # 第三方词库 （感谢南城提供的词库）
   Urls: 
-    - 'https://raw.githubusercontent.com/Yurinann/Filter-Thesaurus-Cloud/main/database.json'
+    - '[https://raw.githubusercontent.com/jdnjk/Filter-Thesaurus-Cloud/main/database.json]'
 #本地词库
 Local:
   - 'NMSL'
@@ -61,9 +61,9 @@ CLOUD-THESAURUS:
   WHITELIST: []
   # 云端词库地址
   URL:
-    - 'https://raw.githubusercontent.com/Yurinann/Filter-Thesaurus-Cloud/main/database.json'
+    - 'https://raw.githubusercontent.com/jdnjk/Filter-Thesaurus-Cloud/main/database.json'
 ```
-如上，将 CLOUD-THESAURUS.ENABLE 修改为 true，在 CLOUD-THESAURUS.URL 下加入 https://raw.githubusercontent.com/Yurinann/Filter-Thesaurus-Cloud/main/database.json 链接 (格式如上)，重启服务器后即可使用屏蔽功能。
+如上，将 CLOUD-THESAURUS.ENABLE 修改为 true，在 CLOUD-THESAURUS.URL 下加入 https://raw.githubusercontent.com/jdnjk/Filter-Thesaurus-Cloud/main/database.json 链接 (格式如上)，输入[trchat reload]后即可使用屏蔽功能。
 <br>
 <br>
 
