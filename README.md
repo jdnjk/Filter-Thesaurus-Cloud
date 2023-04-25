@@ -35,7 +35,7 @@ Cloud-Thesaurus:
   Enabled: true
   # 忽略内容
   Ignored: [] 
-  # 第三方词库 （感谢南城提供的词库）
+  # 第三方词库
   Urls: 
     - '[https://raw.githubusercontent.com/jdnjk/Filter-Thesaurus-Cloud/main/database.json]'
 #本地词库
